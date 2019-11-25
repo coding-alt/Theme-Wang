@@ -56,5 +56,3 @@
 			))?>
 		</nav>
 	</header>
-</body>
-</html>
