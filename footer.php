@@ -12,5 +12,6 @@
 			</span>
 			<?php wp_footer()?>   <!-- 输出尾部信息供调用-->
 		</footer>
+		<script src="<?php echo get_stylesheet_directoru_uri();?>/Theme-Wang.js" type="text/javascript"></script>
 	</body>
 </html>
