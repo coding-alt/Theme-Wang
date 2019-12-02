@@ -27,4 +27,3 @@ elseif ( get_option("comment_registration") && !is_user_logged_in() ) : ?>
 	<?php comment_form(); ?>
 	<!--提交评论表单-->
 <?php endif; ?>
-?>
