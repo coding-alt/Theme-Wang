@@ -130,7 +130,10 @@
 			</section>
 
 	</article>
+	<!-- 侧边栏区 -->
+	<?php  get_sidebar.php(); ?>
 </main>
+
 
 <!--页脚区: 调用footer.php -->
 <?php get_footer(); ?>
